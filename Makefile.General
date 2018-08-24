@@ -1,0 +1,61 @@
+#
+#	General Makefile rules and defined for Treet++
+#
+#	$Id: Makefile.General,v 1.7 2003/01/25 19:11:06 rgm Exp $
+#	$Version$
+#
+
+#	Defines to drive the compiler and other processors
+DEBUG=-g
+OPTIMIZE=-O2
+CXXFLAGS += -Wall
+CXXPATH=/usr/bin
+CCPATH=/usr/bin
+CXX=${CXXPATH}/g++ ${CXXFLAGS} ${DEBUG} ${OPTIMIZE}
+CC=${CCPATH}/gcc ${DEBUG} ${OPTIMIZE}
+#! Factor out includes into separate variable
+CPPFLAGS += -I../Src -L../Src -lsib\
+#
+
+SUFFIXES += .cpp
+
+RM = rm -fv
+
+LEX=flex
+LEXFLAGS=-8 -I
+YACC=bison
+YACCFLAGS=--defines --file-prefix XML
+
+ETAGS=etags
+
+# compilation targets
+.cpp.o .cc.o .cxx.o:
+	$(COMPILE.cc) $< $(OUTPUT_OPTION)
+
+
+
+# generic targets
+
+all: lib programs
+
+# Housekeeping
+TAGS:
+	${ETAGS} *.?pp
+
+clean:
+	${RM} *.o *.a ${APPS}
+
+squeaky: clean
+	${RM} *~ *.s *.i *.ii *.flc core TAGS
+
+# All the .o's and their dependencies
+
+programs: ${APPS}
+
+objects: ${HDRS} ${SRCS} ${OBJECTS}
+
+lib: objects link-lib
+
+link-lib: ${OBJECTS}
+	ar rv ${LIBTARGET} $^
+

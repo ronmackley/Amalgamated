@@ -1,0 +1,101 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = E4F61AE00E3CC89800E7108D /* Amalgamated */;
+		activeSDKPreference = macosx10.6;
+		activeTarget = 8DD76F620486A84900D96B5E /* Amalgamated */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* Amalgamated */,
+		);
+		codeSenseManager = E4F61AE70E3CC8A900E7108D /* Code sense */;
+		executables = (
+			E4F61AE00E3CC89800E7108D /* Amalgamated */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 297736682;
+			PBXWorkspaceStateSaveDate = 297736682;
+		};
+		sourceControlManager = E4F61AE60E3CC8A900E7108D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8DD76F620486A84900D96B5E /* Amalgamated */ = {
+		activeExec = 0;
+		executables = (
+			E4F61AE00E3CC89800E7108D /* Amalgamated */,
+		);
+	};
+	C6859E8B029090EE04C91782 /* Amalgamated.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1612}";
+			sepNavWindowFrame = "{{325, 78}, {750, 558}}";
+		};
+	};
+	E4F61AE00E3CC89800E7108D /* Amalgamated */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Amalgamated;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E4F61AE60E3CC8A900E7108D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E4F61AE70E3CC8A900E7108D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

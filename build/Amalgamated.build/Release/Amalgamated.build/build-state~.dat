@@ -1,0 +1,1330 @@
+TAmalgamated
+v7
+r0
+t274037093.561541
+cCheck dependencies
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/main.o /Users/ron/Desktop/Amalgamated/main.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Action.o /Users/ron/Desktop/Amalgamated/Action.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Application.o /Users/ron/Desktop/Amalgamated/Application.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell.o /Users/ron/Desktop/Amalgamated/Cell.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell_test.o /Users/ron/Desktop/Amalgamated/Cell_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/FunctionDictionary.o /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Initializer.o /Users/ron/Desktop/Amalgamated/Initializer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispApplication.o /Users/ron/Desktop/Amalgamated/LispApplication.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispMain.o /Users/ron/Desktop/Amalgamated/LispMain.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Properties.o /Users/ron/Desktop/Amalgamated/Properties.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ref_counted_test.o /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar.o /Users/ron/Desktop/Amalgamated/Scalar.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar_test.o /Users/ron/Desktop/Amalgamated/Scalar_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Tokenizer.o /Users/ron/Desktop/Amalgamated/Tokenizer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/amalgamated.o /Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ConsNode.o /Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer.o /Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer_test.o /Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/NilNode.o /Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Node.o /Users/ron/Desktop/Amalgamated/Unused/Node.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Parser.o /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ScalarNode.o /Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer.o /Users/ron/Desktop/Amalgamated/Writer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer_test.o /Users/ron/Desktop/Amalgamated/Writer_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/main.o /Users/ron/Desktop/Amalgamated/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Action.o /Users/ron/Desktop/Amalgamated/Action.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Application.o /Users/ron/Desktop/Amalgamated/Application.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell.o /Users/ron/Desktop/Amalgamated/Cell.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell_test.o /Users/ron/Desktop/Amalgamated/Cell_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/FunctionDictionary.o /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Initializer.o /Users/ron/Desktop/Amalgamated/Initializer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispApplication.o /Users/ron/Desktop/Amalgamated/LispApplication.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispMain.o /Users/ron/Desktop/Amalgamated/LispMain.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Properties.o /Users/ron/Desktop/Amalgamated/Properties.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ref_counted_test.o /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar.o /Users/ron/Desktop/Amalgamated/Scalar.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar_test.o /Users/ron/Desktop/Amalgamated/Scalar_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Tokenizer.o /Users/ron/Desktop/Amalgamated/Tokenizer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/amalgamated.o /Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ConsNode.o /Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer.o /Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer_test.o /Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/NilNode.o /Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Node.o /Users/ron/Desktop/Amalgamated/Unused/Node.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Parser.o /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ScalarNode.o /Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer.o /Users/ron/Desktop/Amalgamated/Writer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer_test.o /Users/ron/Desktop/Amalgamated/Writer_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdlib.h
+c0000000047BA99310000000000002A79
+t1203411249
+s10873
+
+N/Users/ron/Desktop/Amalgamated/Action.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Action.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Application.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Application.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Cell.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Cell.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Cell.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Cell_test.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Cell_test.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/FunctionDictionary.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Initializer.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Initializer.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/LispApplication.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/LispApplication.hpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/LispApplication.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/LispMain.cpp
+c00000000456321770000000000000974
+t1164124535
+s2420
+i"LispApplication.hpp"
+i<stdio.h>
+
+N/Users/ron/Desktop/Amalgamated/LispMain.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Properties.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Properties.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Scalar.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Scalar.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Scalar_test.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Scalar_test.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Tokenizer.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Tokenizer.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp
+c0000000045108EA30000000000000DB8
+t1158712995
+s3512
+i"ConsNode.hpp"
+i"NilNode.hpp"
+
+N/Users/ron/Desktop/Amalgamated/Unused/ConsNode.hpp
+c0000000045108EA30000000000000B3A
+t1158712995
+s2874
+i"Node.hpp"
+i"NilNode.hpp"
+i<cstdlib>
+
+N/Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp
+c0000000045231AE70000000000003A27
+t1159928551
+s14887
+i"Lexer.hpp"
+i<cctype>
+i<cstdlib>
+i<cassert>
+i<iostream>
+
+N/Users/ron/Desktop/Amalgamated/Unused/Lexer.hpp
+c0000000045108EA3000000000000129E
+t1158712995
+s4766
+i<vector>
+i<string>
+
+N/Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp
+c0000000045108EA300000000000002BB
+t1158712995
+s699
+i<iostream>
+i<string>
+i"Lexer.hpp"
+
+N/Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp
+c0000000045108EA30000000000000E5B
+t1158712995
+s3675
+i"NilNode.hpp"
+i<stdlib.h>
+
+N/Users/ron/Desktop/Amalgamated/Unused/NilNode.hpp
+c0000000045108EA30000000000000A80
+t1158712995
+s2688
+i"Node.hpp"
+
+N/Users/ron/Desktop/Amalgamated/Unused/Node.cpp
+c0000000045108EA30000000000000BFD
+t1158712995
+s3069
+i"Node.hpp"
+i<stdlib.h>
+
+N/Users/ron/Desktop/Amalgamated/Unused/Node.hpp
+c0000000045108EA3000000000000096D
+t1158712995
+s2413
+
+N/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp
+c0000000045108EA30000000000000CAE
+t1158712995
+s3246
+i"Parser.hpp"
+
+N/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp
+c0000000045108EA30000000000000B12
+t1158712995
+s2834
+i"Lexer.hpp"
+i"Cell.hpp"
+i<vector>
+
+N/Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp
+c0000000045108EA3000000000000066A
+t1158712995
+s1642
+i"ScalarNode.hpp"
+i<cstring>
+i<cstdlib>
+i<cstdio>
+i<sstream>
+
+N/Users/ron/Desktop/Amalgamated/Unused/ScalarNode.hpp
+c0000000045108EA30000000000000419
+t1158712995
+s1049
+i"Node.hpp"
+i<string>
+
+N/Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp
+c0000000045231F110000000000000773
+t1159929617
+s1907
+i<config.h>
+i<iostream>
+i<cstdlib>
+
+N/Users/ron/Desktop/Amalgamated/Writer.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Writer.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Writer_test.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/Writer_test.o
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Action.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Amalgamated
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Amalgamated.LinkFileList
+c000000004AA541E10000000000000A98
+t1252344289
+s2712
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Application.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell_test.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ConsNode.o
+t1252344292
+s9856
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/FunctionDictionary.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Initializer.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer.o
+t1252344293
+s139624
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer_test.o
+t1252344292
+s90712
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispApplication.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispMain.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/NilNode.o
+t1252344293
+s6532
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Node.o
+t1252344293
+s5284
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Parser.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Properties.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ScalarNode.o
+t1252344293
+s50820
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar_test.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Tokenizer.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer_test.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/amalgamated.o
+t1252344292
+s67740
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ref_counted_test.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Action.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Amalgamated
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Amalgamated.LinkFileList
+c000000004AA541E10000000000000A80
+t1252344289
+s2688
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Application.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell_test.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ConsNode.o
+t1252344290
+s10452
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/FunctionDictionary.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Initializer.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer.o
+t1252344291
+s145340
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer_test.o
+t1252344291
+s91392
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispApplication.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispMain.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/NilNode.o
+t1252344291
+s6656
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Node.o
+t1252344291
+s5184
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Parser.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Properties.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ScalarNode.o
+t1252344291
+s51476
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar_test.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Tokenizer.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer_test.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/amalgamated.o
+t1252344290
+s68204
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ref_counted_test.o
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Release/Amalgamated
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/build/Release/Amalgamated.dSYM
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/main.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/ref_counted_test.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ron/Desktop/Amalgamated/ref_counted_test.o
+c00000000000000000000000000000000
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies274037089#274037089#0(221"[WARN]warning: no rule to process file '$(PROJECT_DIR)/Makefile' of type sourcecode.make for architecture ppc[WARN]warning: no rule to process file '$(PROJECT_DIR)/Makefile' of type sourcecode.make for architecture i3862(22@103"warning: no rule to process file '$(PROJECT_DIR)/Makefile' of type sourcecode.make for architecture ppc274037089#18446744073709551615#0#0(1@0"0(22@104"warning: no rule to process file '$(PROJECT_DIR)/Makefile' of type sourcecode.make for architecture i386274037089#18446744073709551615#0#0(1@0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Action.o /Users/ron/Desktop/Amalgamated/Action.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.411119
+e274037091.417174
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Action.o
+x/Users/ron/Desktop/Amalgamated/Action.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Action.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@49"Compile /Users/ron/Desktop/Amalgamated/Action.cpp274037091#274037091#0(290"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Action.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#41"/Users/ron/Desktop/Amalgamated/Action.cpp4300882208#927"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Action.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Action.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Application.o /Users/ron/Desktop/Amalgamated/Application.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.417267
+e274037091.423332
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Application.o
+x/Users/ron/Desktop/Amalgamated/Application.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Application.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Application.cpp274037091#274037091#0(295"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Application.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Application.cpp4300882208#937"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Application.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Application.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell.o /Users/ron/Desktop/Amalgamated/Cell.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.423432
+e274037091.429833
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell.o
+x/Users/ron/Desktop/Amalgamated/Cell.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Cell.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@47"Compile /Users/ron/Desktop/Amalgamated/Cell.cpp274037091#274037091#0(288"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Cell.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#39"/Users/ron/Desktop/Amalgamated/Cell.cpp4300882208#923"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Cell.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell_test.o /Users/ron/Desktop/Amalgamated/Cell_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.429925
+e274037091.436290
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell_test.o
+x/Users/ron/Desktop/Amalgamated/Cell_test.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Cell_test.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@52"Compile /Users/ron/Desktop/Amalgamated/Cell_test.cpp274037091#274037091#0(293"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Cell_test.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#44"/Users/ron/Desktop/Amalgamated/Cell_test.cpp4300882208#933"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Cell_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Cell_test.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ConsNode.o /Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.966583
+e274037092.100074
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ConsNode.o
+x/Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp274037091#274037092#0(0"0(0#0#50"/Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp4300882208#938"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ConsNode.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/FunctionDictionary.o /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.436377
+e274037091.444670
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/FunctionDictionary.o
+x/Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@61"Compile /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp274037091#274037091#0(302"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#53"/Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp4300882208#951"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/FunctionDictionary.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Initializer.o /Users/ron/Desktop/Amalgamated/Initializer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.444758
+e274037091.451389
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Initializer.o
+x/Users/ron/Desktop/Amalgamated/Initializer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Initializer.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Initializer.cpp274037091#274037091#0(295"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Initializer.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Initializer.cpp4300882208#937"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Initializer.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Initializer.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer.o /Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037092.100174
+e274037093.090171
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer.o
+x/Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp274037092#274037093#0(0"0(0#0#47"/Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp4300882208#932"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer_test.o /Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037092.424725
+e274037092.982022
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer_test.o
+x/Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp274037092#274037092#0(0"0(0#0#52"/Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp4300882208#942"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Lexer_test.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispApplication.o /Users/ron/Desktop/Amalgamated/LispApplication.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.451474
+e274037091.457598
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispApplication.o
+x/Users/ron/Desktop/Amalgamated/LispApplication.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/LispApplication.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@58"Compile /Users/ron/Desktop/Amalgamated/LispApplication.cpp274037091#274037091#0(299"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/LispApplication.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#50"/Users/ron/Desktop/Amalgamated/LispApplication.cpp4300882208#945"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/LispApplication.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispApplication.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispMain.o /Users/ron/Desktop/Amalgamated/LispMain.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.457686
+e274037091.966449
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispMain.o
+x/Users/ron/Desktop/Amalgamated/LispMain.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp:42:31: error: LispApplication.hpp: No such file or directory
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp: In function 'int main(int, char**)':
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp:49: error: 'LispApplication' was not declared in this scope
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp:49: error: expected `;' before 'theApp'
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp:50: error: 'theApp' was not declared in this scope
+lSLF07#2@51"Compile /Users/ron/Desktop/Amalgamated/LispMain.cpp274037091#274037091#0(470"/Users/ron/Desktop/Amalgamated/LispMain.cpp:42:31: error: LispApplication.hpp: No such file or directory/Users/ron/Desktop/Amalgamated/LispMain.cpp: In function 'int main(int, char**)':/Users/ron/Desktop/Amalgamated/LispMain.cpp:49: error: 'LispApplication' was not declared in this scope/Users/ron/Desktop/Amalgamated/LispMain.cpp:49: error: expected `;' before 'theApp'/Users/ron/Desktop/Amalgamated/LispMain.cpp:50: error: 'theApp' was not declared in this scope4(4@46"LispApplication.hpp: No such file or directory274037091#0#105#0(6@43"/Users/ron/Desktop/Amalgamated/LispMain.cpp185817335#42#0#42#0#28"*: No such file or directory0(4@48"'LispApplication' was not declared in this scope274037091#187#104#0(6@43"/Users/ron/Desktop/Amalgamated/LispMain.cpp185817335#49#0#49#0#34"'*' was not declared in this scope0(4@28"Expected `;' before 'theApp'274037091#291#84#0(6@43"/Users/ron/Desktop/Amalgamated/LispMain.cpp185817335#49#0#49#0#19"expected * before *0(4@39"'theApp' was not declared in this scope274037091#375#95#0(6@43"/Users/ron/Desktop/Amalgamated/LispMain.cpp185817335#50#0#50#0#34"'*' was not declared in this scope0(0#0#43"/Users/ron/Desktop/Amalgamated/LispMain.cpp4300882208#931"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/LispMain.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/LispMain.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/NilNode.o /Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037092.982206
+e274037093.049288
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/NilNode.o
+x/Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp274037092#274037093#0(0"0(0#0#49"/Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp4300882208#936"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/NilNode.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Node.o /Users/ron/Desktop/Amalgamated/Unused/Node.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037093.049393
+e274037093.129048
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Node.o
+x/Users/ron/Desktop/Amalgamated/Unused/Node.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Unused/Node.cpp274037093#274037093#0(0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Unused/Node.cpp4300882208#930"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/Node.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Node.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Parser.o /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037093.090278
+e274037093.342930
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Parser.o
+x/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:42:
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:49:20: error: Cell.hpp: No such file or directory
+oIn file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:42:
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:67: error: 'RefCountedCell' has not been declared
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: 'RefCountedCell' was not declared in this scope
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: template argument 1 is invalid
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: template argument 2 is invalid
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:73: error: ISO C++ forbids declaration of 'RefCountedCell' with no type
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:73: error: expected ';' before '*' token
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:69: error: 'RefCountedCell' has not been declared
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp: In member function 'bool Parser::parse(const std::string&, const std::vector<Lexer::Token, std::allocator<Lexer::Token> >&, int*&, std::vector<Lexer::Token, std::allocator<Lexer::Token> >&)':
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:72: error: 'Cell' has not been declared
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:72: error: expected `;' before 'cellFactory'
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'RefCountedCell' was not declared in this scope
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'cell' was not declared in this scope
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'cellFactory' was not declared in this scope
+lSLF07#2@56"Compile /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037093#274037093#0(1684"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:42:/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:49:20: error: Cell.hpp: No such file or directoryIn file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:42:/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:67: error: 'RefCountedCell' has not been declared/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: 'RefCountedCell' was not declared in this scope/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: template argument 1 is invalid/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: template argument 2 is invalid/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:73: error: ISO C++ forbids declaration of 'RefCountedCell' with no type/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:73: error: expected ';' before '*' token/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:69: error: 'RefCountedCell' has not been declared/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp: In member function 'bool Parser::parse(const std::string&, const std::vector<Lexer::Token, std::allocator<Lexer::Token> >&, int*&, std::vector<Lexer::Token, std::allocator<Lexer::Token> >&)':/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:72: error: 'Cell' has not been declared/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:72: error: expected `;' before 'cellFactory'/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'RefCountedCell' was not declared in this scope/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'cell' was not declared in this scope/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'cellFactory' was not declared in this scope13(4@35"Cell.hpp: No such file or directory274037093#75#99#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@87"Cell.hpp: No such file or directory in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#49#0#49#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#49#0#49#0#28"*: No such file or directory0(4@38"'RefCountedCell' has not been declared274037093#249#99#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@90"'RefCountedCell' has not been declared in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#67#0#67#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#67#0#67#0#25"'*' has not been declared0(4@47"'RefCountedCell' was not declared in this scope274037093#348#108#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@99"'RefCountedCell' was not declared in this scope in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#34"'*' was not declared in this scope0(4@30"Template argument 1 is invalid274037093#456#91#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@82"Template argument 1 is invalid in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(4@30"Template argument 2 is invalid274037093#547#91#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@82"Template argument 2 is invalid in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(4@60"ISO C++ forbids declaration of 'RefCountedCell' with no type274037093#638#121#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@112"ISO C++ forbids declaration of 'RefCountedCell' with no type in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#73#0#73#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#73#0#73#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token274037093#759#90#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@81"Expected ';' before '*' token in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037093#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#73#0#73#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#73#0#73#0#19"expected * before *0(4@38"'RefCountedCell' has not been declared274037093#849#99#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#69#0#69#0#25"'*' has not been declared0(4@28"'Cell' has not been declared274037093#1190#89#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#72#0#72#0#25"'*' has not been declared0(4@33"Expected `;' before 'cellFactory'274037093#1279#94#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#72#0#72#0#19"expected * before *0(4@47"'RefCountedCell' was not declared in this scope274037093#1373#108#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#75#0#75#0#34"'*' was not declared in this scope0(4@37"'cell' was not declared in this scope274037093#1481#98#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#75#0#75#0#34"'*' was not declared in this scope0(4@44"'cellFactory' was not declared in this scope274037093#1579#105#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#75#0#75#0#34"'*' was not declared in this scope0(0#0#48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp4300882208#934"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Parser.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Properties.o /Users/ron/Desktop/Amalgamated/Properties.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.613041
+e274037091.618607
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Properties.o
+x/Users/ron/Desktop/Amalgamated/Properties.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Properties.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@53"Compile /Users/ron/Desktop/Amalgamated/Properties.cpp274037091#274037091#0(294"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Properties.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#45"/Users/ron/Desktop/Amalgamated/Properties.cpp4300882208#935"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Properties.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Properties.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar.o /Users/ron/Desktop/Amalgamated/Scalar.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.626825
+e274037091.633592
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar.o
+x/Users/ron/Desktop/Amalgamated/Scalar.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Scalar.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@49"Compile /Users/ron/Desktop/Amalgamated/Scalar.cpp274037091#274037091#0(290"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Scalar.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#41"/Users/ron/Desktop/Amalgamated/Scalar.cpp4300882208#927"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Scalar.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ScalarNode.o /Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037093.129145
+e274037093.561424
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ScalarNode.o
+x/Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp274037093#274037093#0(0"0(0#0#52"/Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp4300882208#942"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ScalarNode.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar_test.o /Users/ron/Desktop/Amalgamated/Scalar_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.633680
+e274037091.638738
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar_test.o
+x/Users/ron/Desktop/Amalgamated/Scalar_test.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Scalar_test.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Scalar_test.cpp274037091#274037091#0(295"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Scalar_test.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Scalar_test.cpp4300882208#937"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Scalar_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Scalar_test.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Tokenizer.o /Users/ron/Desktop/Amalgamated/Tokenizer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.638829
+e274037091.645562
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Tokenizer.o
+x/Users/ron/Desktop/Amalgamated/Tokenizer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Tokenizer.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@52"Compile /Users/ron/Desktop/Amalgamated/Tokenizer.cpp274037091#274037091#0(293"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Tokenizer.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#44"/Users/ron/Desktop/Amalgamated/Tokenizer.cpp4300882208#933"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Tokenizer.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Tokenizer.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer.o /Users/ron/Desktop/Amalgamated/Writer.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037093.343025
+e274037093.348692
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer.o
+x/Users/ron/Desktop/Amalgamated/Writer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Writer.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@49"Compile /Users/ron/Desktop/Amalgamated/Writer.cpp274037093#274037093#0(290"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Writer.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037093#18446744073709551615#0#0(1@0"0(0#0#41"/Users/ron/Desktop/Amalgamated/Writer.cpp4300882208#927"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Writer.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer_test.o /Users/ron/Desktop/Amalgamated/Writer_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037093.348776
+e274037093.355354
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer_test.o
+x/Users/ron/Desktop/Amalgamated/Writer_test.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Writer_test.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Writer_test.cpp274037093#274037093#0(295"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Writer_test.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037093#18446744073709551615#0#0(1@0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Writer_test.cpp4300882208#937"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Writer_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Writer_test.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/amalgamated.o /Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.645648
+e274037092.424629
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/amalgamated.o
+x/Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp274037091#274037092#0(0"0(0#0#53"/Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp4300882208#944"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/amalgamated.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/main.o /Users/ron/Desktop/Amalgamated/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.402498
+e274037091.411030
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/main.o
+x/Users/ron/Desktop/Amalgamated/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/main.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@47"Compile /Users/ron/Desktop/Amalgamated/main.cpp274037091#274037091#0(288"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/main.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#39"/Users/ron/Desktop/Amalgamated/main.cpp4300882208#923"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/main.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/main.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ref_counted_test.o /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s274037091.618699
+e274037091.626734
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ref_counted_test.o
+x/Users/ron/Desktop/Amalgamated/ref_counted_test.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@59"Compile /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp274037091#274037091#0(300"i686-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#51"/Users/ron/Desktop/Amalgamated/ref_counted_test.cpp4300882208#947"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/i386 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/ref_counted_test.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Action.o /Users/ron/Desktop/Amalgamated/Action.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.506266
+e274037089.598847
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Action.o
+x/Users/ron/Desktop/Amalgamated/Action.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Action.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@49"Compile /Users/ron/Desktop/Amalgamated/Action.cpp274037089#274037089#0(299"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Action.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#41"/Users/ron/Desktop/Amalgamated/Action.cpp4300882208#921"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Action.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Action.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Application.o /Users/ron/Desktop/Amalgamated/Application.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.598963
+e274037089.609420
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Application.o
+x/Users/ron/Desktop/Amalgamated/Application.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Application.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Application.cpp274037089#274037089#0(304"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Application.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Application.cpp4300882208#931"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Application.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Application.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell.o /Users/ron/Desktop/Amalgamated/Cell.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.600220
+e274037089.609712
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell.o
+x/Users/ron/Desktop/Amalgamated/Cell.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Cell.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@47"Compile /Users/ron/Desktop/Amalgamated/Cell.cpp274037089#274037089#0(297"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Cell.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#39"/Users/ron/Desktop/Amalgamated/Cell.cpp4300882208#917"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Cell.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell_test.o /Users/ron/Desktop/Amalgamated/Cell_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.609803
+e274037089.617846
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell_test.o
+x/Users/ron/Desktop/Amalgamated/Cell_test.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Cell_test.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@52"Compile /Users/ron/Desktop/Amalgamated/Cell_test.cpp274037089#274037089#0(302"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Cell_test.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#44"/Users/ron/Desktop/Amalgamated/Cell_test.cpp4300882208#927"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Cell_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Cell_test.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ConsNode.o /Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.884231
+e274037090.028060
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ConsNode.o
+x/Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp274037089#274037090#0(0"0(0#0#50"/Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp4300882208#932"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/ConsNode.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ConsNode.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/FunctionDictionary.o /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.610766
+e274037089.616420
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/FunctionDictionary.o
+x/Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@61"Compile /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp274037089#274037089#0(311"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#53"/Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp4300882208#945"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/FunctionDictionary.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/FunctionDictionary.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Initializer.o /Users/ron/Desktop/Amalgamated/Initializer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.616512
+e274037089.621940
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Initializer.o
+x/Users/ron/Desktop/Amalgamated/Initializer.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Initializer.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Initializer.cpp274037089#274037089#0(304"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Initializer.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Initializer.cpp4300882208#931"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Initializer.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Initializer.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer.o /Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037090.028161
+e274037091.133618
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer.o
+x/Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp274037090#274037091#0(0"0(0#0#47"/Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp7307761437599099904#926"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/Lexer.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer_test.o /Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037090.431715
+e274037091.027297
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer_test.o
+x/Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp274037090#274037091#0(0"0(0#0#52"/Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp4300882208#936"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/Lexer_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Lexer_test.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispApplication.o /Users/ron/Desktop/Amalgamated/LispApplication.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.617926
+e274037089.624302
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispApplication.o
+x/Users/ron/Desktop/Amalgamated/LispApplication.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/LispApplication.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@58"Compile /Users/ron/Desktop/Amalgamated/LispApplication.cpp274037089#274037089#0(308"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/LispApplication.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#50"/Users/ron/Desktop/Amalgamated/LispApplication.cpp4300882208#939"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/LispApplication.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispApplication.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispMain.o /Users/ron/Desktop/Amalgamated/LispMain.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.622032
+e274037089.884126
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispMain.o
+x/Users/ron/Desktop/Amalgamated/LispMain.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp:42:31: error: LispApplication.hpp: No such file or directory
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp: In function 'int main(int, char**)':
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp:49: error: 'LispApplication' was not declared in this scope
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp:49: error: expected `;' before 'theApp'
+o/Users/ron/Desktop/Amalgamated/LispMain.cpp:50: error: 'theApp' was not declared in this scope
+lSLF07#2@51"Compile /Users/ron/Desktop/Amalgamated/LispMain.cpp274037089#274037089#0(470"/Users/ron/Desktop/Amalgamated/LispMain.cpp:42:31: error: LispApplication.hpp: No such file or directory/Users/ron/Desktop/Amalgamated/LispMain.cpp: In function 'int main(int, char**)':/Users/ron/Desktop/Amalgamated/LispMain.cpp:49: error: 'LispApplication' was not declared in this scope/Users/ron/Desktop/Amalgamated/LispMain.cpp:49: error: expected `;' before 'theApp'/Users/ron/Desktop/Amalgamated/LispMain.cpp:50: error: 'theApp' was not declared in this scope4(4@46"LispApplication.hpp: No such file or directory274037089#0#105#0(6@43"/Users/ron/Desktop/Amalgamated/LispMain.cpp185817335#42#0#42#0#28"*: No such file or directory0(4@48"'LispApplication' was not declared in this scope274037089#187#104#0(6@43"/Users/ron/Desktop/Amalgamated/LispMain.cpp185817335#49#0#49#0#34"'*' was not declared in this scope0(4@28"Expected `;' before 'theApp'274037089#291#84#0(6@43"/Users/ron/Desktop/Amalgamated/LispMain.cpp185817335#49#0#49#0#19"expected * before *0(4@39"'theApp' was not declared in this scope274037089#375#95#0(6@43"/Users/ron/Desktop/Amalgamated/LispMain.cpp185817335#50#0#50#0#34"'*' was not declared in this scope0(0#0#43"/Users/ron/Desktop/Amalgamated/LispMain.cpp4300882208#925"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/LispMain.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/LispMain.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/NilNode.o /Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037091.027553
+e274037091.089279
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/NilNode.o
+x/Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp274037091#274037091#0(0"0(0#0#49"/Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp4300882208#930"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/NilNode.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/NilNode.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Node.o /Users/ron/Desktop/Amalgamated/Unused/Node.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037091.089409
+e274037091.158818
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Node.o
+x/Users/ron/Desktop/Amalgamated/Unused/Node.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Unused/Node.cpp274037091#274037091#0(0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Unused/Node.cpp4300882208#924"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/Node.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Node.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Parser.o /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037091.133722
+e274037091.390299
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Parser.o
+x/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:42:
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:49:20: error: Cell.hpp: No such file or directory
+oIn file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:42:
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:67: error: 'RefCountedCell' has not been declared
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: 'RefCountedCell' was not declared in this scope
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: template argument 1 is invalid
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: template argument 2 is invalid
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:73: error: ISO C++ forbids declaration of 'RefCountedCell' with no type
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:73: error: expected ';' before '*' token
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:69: error: 'RefCountedCell' has not been declared
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp: In member function 'bool Parser::parse(const std::string&, const std::vector<Lexer::Token, std::allocator<Lexer::Token> >&, int*&, std::vector<Lexer::Token, std::allocator<Lexer::Token> >&)':
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:72: error: 'Cell' has not been declared
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:72: error: expected `;' before 'cellFactory'
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'RefCountedCell' was not declared in this scope
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'cell' was not declared in this scope
+o/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'cellFactory' was not declared in this scope
+lSLF07#2@56"Compile /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037091#274037091#0(1684"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:42:/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:49:20: error: Cell.hpp: No such file or directoryIn file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:42:/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:67: error: 'RefCountedCell' has not been declared/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: 'RefCountedCell' was not declared in this scope/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: template argument 1 is invalid/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:72: error: template argument 2 is invalid/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:73: error: ISO C++ forbids declaration of 'RefCountedCell' with no type/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp:73: error: expected ';' before '*' token/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:69: error: 'RefCountedCell' has not been declared/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp: In member function 'bool Parser::parse(const std::string&, const std::vector<Lexer::Token, std::allocator<Lexer::Token> >&, int*&, std::vector<Lexer::Token, std::allocator<Lexer::Token> >&)':/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:72: error: 'Cell' has not been declared/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:72: error: expected `;' before 'cellFactory'/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'RefCountedCell' was not declared in this scope/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'cell' was not declared in this scope/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp:75: error: 'cellFactory' was not declared in this scope13(4@35"Cell.hpp: No such file or directory274037091#75#99#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@87"Cell.hpp: No such file or directory in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#49#0#49#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#49#0#49#0#28"*: No such file or directory0(4@38"'RefCountedCell' has not been declared274037091#249#99#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@90"'RefCountedCell' has not been declared in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#67#0#67#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#67#0#67#0#25"'*' has not been declared0(4@47"'RefCountedCell' was not declared in this scope274037091#348#108#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@99"'RefCountedCell' was not declared in this scope in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#34"'*' was not declared in this scope0(4@30"Template argument 1 is invalid274037091#456#91#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@82"Template argument 1 is invalid in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(4@30"Template argument 2 is invalid274037091#547#91#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@82"Template argument 2 is invalid in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#72#0#72#0#0"0(4@60"ISO C++ forbids declaration of 'RefCountedCell' with no type274037091#638#121#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@112"ISO C++ forbids declaration of 'RefCountedCell' with no type in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#73#0#73#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#73#0#73#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token274037091#759#90#2(7@70"In file included from /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#42#0#42#0#0"0(13@81"Expected ';' before '*' token in /Users/ron/Desktop/Amalgamated/Unused/Parser.hpp274037091#18446744073709551615#0#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#73#0#73#0#0"0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.hpp180405795#73#0#73#0#19"expected * before *0(4@38"'RefCountedCell' has not been declared274037091#849#99#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#69#0#69#0#25"'*' has not been declared0(4@28"'Cell' has not been declared274037091#1190#89#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#72#0#72#0#25"'*' has not been declared0(4@33"Expected `;' before 'cellFactory'274037091#1279#94#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#72#0#72#0#19"expected * before *0(4@47"'RefCountedCell' was not declared in this scope274037091#1373#108#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#75#0#75#0#34"'*' was not declared in this scope0(4@37"'cell' was not declared in this scope274037091#1481#98#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#75#0#75#0#34"'*' was not declared in this scope0(4@44"'cellFactory' was not declared in this scope274037091#1579#105#0(6@48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp180405795#75#0#75#0#34"'*' was not declared in this scope0(0#0#48"/Users/ron/Desktop/Amalgamated/Unused/Parser.cpp4300882208#928"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/Parser.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Parser.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Properties.o /Users/ron/Desktop/Amalgamated/Properties.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.624385
+e274037089.629389
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Properties.o
+x/Users/ron/Desktop/Amalgamated/Properties.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Properties.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@53"Compile /Users/ron/Desktop/Amalgamated/Properties.cpp274037089#274037089#0(303"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Properties.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#45"/Users/ron/Desktop/Amalgamated/Properties.cpp4300882208#929"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Properties.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Properties.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar.o /Users/ron/Desktop/Amalgamated/Scalar.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.634532
+e274037089.642902
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar.o
+x/Users/ron/Desktop/Amalgamated/Scalar.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Scalar.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@49"Compile /Users/ron/Desktop/Amalgamated/Scalar.cpp274037089#274037089#0(299"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Scalar.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#41"/Users/ron/Desktop/Amalgamated/Scalar.cpp4300882208#921"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Scalar.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ScalarNode.o /Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037091.158943
+e274037091.612933
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ScalarNode.o
+x/Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp274037091#274037091#0(0"0(0#0#52"/Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp4300882208#936"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/ScalarNode.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ScalarNode.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar_test.o /Users/ron/Desktop/Amalgamated/Scalar_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.643001
+e274037089.657957
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar_test.o
+x/Users/ron/Desktop/Amalgamated/Scalar_test.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Scalar_test.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Scalar_test.cpp274037089#274037089#0(304"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Scalar_test.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Scalar_test.cpp4300882208#931"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Scalar_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Scalar_test.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Tokenizer.o /Users/ron/Desktop/Amalgamated/Tokenizer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.658047
+e274037089.663112
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Tokenizer.o
+x/Users/ron/Desktop/Amalgamated/Tokenizer.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Tokenizer.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@52"Compile /Users/ron/Desktop/Amalgamated/Tokenizer.cpp274037089#274037089#0(302"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Tokenizer.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#44"/Users/ron/Desktop/Amalgamated/Tokenizer.cpp4300882208#927"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Tokenizer.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Tokenizer.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer.o /Users/ron/Desktop/Amalgamated/Writer.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037091.390388
+e274037091.396803
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer.o
+x/Users/ron/Desktop/Amalgamated/Writer.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Writer.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@49"Compile /Users/ron/Desktop/Amalgamated/Writer.cpp274037091#274037091#0(299"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Writer.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#41"/Users/ron/Desktop/Amalgamated/Writer.cpp4300882208#921"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Writer.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer_test.o /Users/ron/Desktop/Amalgamated/Writer_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037091.396888
+e274037091.402406
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer_test.o
+x/Users/ron/Desktop/Amalgamated/Writer_test.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Writer_test.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@54"Compile /Users/ron/Desktop/Amalgamated/Writer_test.cpp274037091#274037091#0(304"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/Writer_test.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037091#18446744073709551615#0#0(1@0"0(0#0#46"/Users/ron/Desktop/Amalgamated/Writer_test.cpp4300882208#931"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Writer_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Writer_test.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/amalgamated.o /Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.663202
+e274037090.431618
+r1
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/amalgamated.o
+x/Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp274037089#274037090#0(0"0(0#0#53"/Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp4300882208#938"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/Unused/amalgamated.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/amalgamated.o0#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/main.o /Users/ron/Desktop/Amalgamated/main.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.439853
+e274037089.598443
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/main.o
+x/Users/ron/Desktop/Amalgamated/main.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/main.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@47"Compile /Users/ron/Desktop/Amalgamated/main.cpp274037089#274037089#0(297"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/main.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#39"/Users/ron/Desktop/Amalgamated/main.cpp7307761437599099904#917"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/main.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/main.o1#
+
+CCompileC build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ref_counted_test.o /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s274037089.629474
+e274037089.634449
+r0
+xCompileC
+xbuild/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ref_counted_test.o
+x/Users/ron/Desktop/Amalgamated/ref_counted_test.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+opowerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp: No such file or directory
+opowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effect
+opowerpc-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@59"Compile /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp274037089#274037089#0(309"powerpc-apple-darwin10-gcc-4.2.1: /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp: No such file or directorypowerpc-apple-darwin10-gcc-4.2.1: warning: '-x c++' after last input file has no effectpowerpc-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1274037089#18446744073709551615#0#0(1@0"0(0#0#51"/Users/ron/Desktop/Amalgamated/ref_counted_test.cpp4300882208#941"    cd /Users/ron/Desktop/Amalgamated    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Amalgamated.hmap -F/Users/ron/Desktop/Amalgamated/build/Release -I/Users/ron/Desktop/Amalgamated/build/Release/include -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources/ppc -I/Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/DerivedSources -c /Users/ron/Desktop/Amalgamated/ref_counted_test.cpp -o /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/ref_counted_test.o1#
+
+CCreateUniversalBinary /Users/ron/Desktop/Amalgamated/build/Release/Amalgamated normal "ppc i386"
+r0
+
+CGenerateDSYMFile /Users/ron/Desktop/Amalgamated/build/Release/Amalgamated.dSYM /Users/ron/Desktop/Amalgamated/build/Release/Amalgamated
+r0
+
+CLd /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/i386/Amalgamated normal i386
+r0
+
+CLd /Users/ron/Desktop/Amalgamated/build/Amalgamated.build/Release/Amalgamated.build/Objects-normal/ppc/Amalgamated normal ppc
+r0
+
