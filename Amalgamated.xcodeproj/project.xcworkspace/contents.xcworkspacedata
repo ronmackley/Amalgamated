@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../LispMain.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Makefile">
+   </FileRef>
+   <FileRef
+      location = "group:../Makefile.General">
+   </FileRef>
+   <FileRef
+      location = "group:../Amalgamated.1">
+   </FileRef>
+   <FileRef
+      location = "group:../Src">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
